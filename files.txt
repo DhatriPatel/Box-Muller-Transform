@@ -1,0 +1,6 @@
+randist.v
+sqrtln.v
+sin.v
+fpmul.v
+DW02_mult_5_stage.v
+fpadd.v
