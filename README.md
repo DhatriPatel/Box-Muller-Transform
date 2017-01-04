@@ -11,13 +11,13 @@ I have attached all Verilog files for this project which are designed.
 Tools: Synopsys VCS, Design Compiler, Design Vision or any other EDA tools.  
 Programming language: Verilog    
 
-Top module: randist.v
-Design modules: fpmul.v, fpadd.v, sqrtln.v, sin.v, DW02_mult_5_stage.v
-Simulation script: ./runrandist
-Synthesis script: synthesis.script
-testbench: trand.v
-Synthesis result file: synres.txt
-Simulation result file: simres.txt
+Top module: randist.v     
+Design modules: fpmul.v, fpadd.v, sqrtln.v, sin.v, DW02_mult_5_stage.v     
+Simulation script: ./runrandist     
+Synthesis script: synthesis.script     
+testbench: trand.v     
+Synthesis result file: synres.txt     
+Simulation result file: simres.txt      
 
 All done with smile.... :) :) 
 
